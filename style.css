@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('./img/space.jpeg');
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    justify-content: center;
+    padding-bottom: 100px;
+    
+}
+
+h1 {
+    font-size: 4rem;
+    margin-top: 5rem;
+}
+
+.countdown-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.timer {
+    text-align: center;
+    margin: 40px;
+}
+
+span{
+    font-size: 1.3rem;
+    text-align: center;
+}
+.time{
+    font-size: 6rem;
+}
