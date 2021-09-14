@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/codemax28/dont-forget-my-gift/issues"
   },
-  "homepage": "https://github.com/codemax28/dont-forget-my-gift#readme"
+  "homepage": "https://github.com/codemax28/dont-forget-my-gift#readme",
+  "dependencies": {
+    "node": "^16.9.1"
+  }
 }
