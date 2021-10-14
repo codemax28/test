@@ -24,7 +24,7 @@ body{
 
 h1 {
     font-size: 4rem;
-    margin-top: 5rem;
+    margin: 30px;
 }
 
 .countdown-container {
@@ -36,6 +36,7 @@ h1 {
 .timer {
     text-align: center;
     margin: 40px;
+    width: 83.9px;
 }
 
 span{
@@ -45,3 +46,4 @@ span{
 .time{
     font-size: 6rem;
 }
+
