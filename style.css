@@ -26,6 +26,9 @@ h1 {
     font-size: 4rem;
     margin: 30px;
 }
+.h2{
+    background-color: bisque;
+}
 
 .countdown-container {
     display: flex;
